@@ -1,0 +1,6 @@
+.dockerignore
+Dockerfile
+__pycache__/
+media/
+local_up.sh
+dump_*
