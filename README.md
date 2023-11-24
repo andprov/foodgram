@@ -1,5 +1,15 @@
 # Продуктовый помощник Foodgram
 
+[![License MIT](https://img.shields.io/badge/licence-MIT-green)](https://opensource.org/license/mit/)
+[![Code style black](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
+[![Python versions](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C3.11-blue)](#)
+[![Django versions](https://img.shields.io/badge/Django-3.2-blue?logo=django)](#)
+[![Nginx version](https://img.shields.io/badge/Nginx-1.22-blue?logo=nginx)](#)
+[![Postgres version](https://img.shields.io/badge/PSQL-13-blue?logo=postgresql)](#)
+
+[![Main foodgram workflow](https://github.com/andprov/foodgram/actions/workflows/main.yml/badge.svg)](https://github.com/andprov/foodgram/actions/workflows/main.yml)
+
+
 ## Описание
 «Фудграм» — сайт, на котором пользователи публикуют рецепты, добавляют 
 чужие рецепты в избранное и подписываются на публикации других авторов. 
@@ -7,7 +17,7 @@
 Он позволяет создавать список продуктов, которые нужно купить для приготовления 
 выбранных блюд.
 
-
+![pic](https://github.com/andprov/foodgram/blob/bff972172a4514255fe730078c0b70f0e29eac37/._misc/scr.png)
 ## Необходимо для запуска
 💡[Docker](https://docs.docker.com/engine/install/)
 
