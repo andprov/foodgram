@@ -6,7 +6,6 @@
 [![Django versions](https://img.shields.io/badge/Django-3.2-blue?logo=django)](#)
 [![Nginx version](https://img.shields.io/badge/Nginx-1.22-blue?logo=nginx)](#)
 [![Postgres version](https://img.shields.io/badge/PSQL-13-blue?logo=postgresql)](#)
-
 [![Main foodgram workflow](https://github.com/andprov/foodgram/actions/workflows/main.yml/badge.svg)](https://github.com/andprov/foodgram/actions/workflows/main.yml)
 
 
