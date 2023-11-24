@@ -178,7 +178,7 @@ scp .env docker-compose.prod.yml <username>@<server_address>:/home/<username>/fo
 
 Подключиться к серверу:
 ```shell
-ssh username@server_address
+ssh <username>@<server_address>
 ```
 
 Перейти в директорию `foodgram`:
